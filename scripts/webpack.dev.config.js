@@ -10,7 +10,6 @@ function resolve(relatedPath) {
 
 const webpackConfigDev = {
   mode: 'development',
-
   entry: {
     app: [resolve('../src/index.js')],
   },
