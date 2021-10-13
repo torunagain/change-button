@@ -17,7 +17,7 @@ const webpackConfigDev = {
 
   output: {
     path: resolve('../lib'), 
-    filename: 'change-button.js',
+    filename: 'ljk-change-button.js',
   },
 
   devtool: 'cheap-module-eval-source-map',   

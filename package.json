@@ -1,9 +1,9 @@
 {
-  "name": "@ljk/change-button",
+  "name": "@ljk/lijunkai-change-button",
   "version": "1.0.0",
   "main": "lib/change-button.js",
   "author": "ljk",
-  "license": "MIT",
+  "license": "ljk",
   "scripts": {
     "build": "webpack --config ./scripts/webpack.prod.config.js",
     "dev": "webpack-dev-server --config ./scripts/webpack.dev.config.js"
