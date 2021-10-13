@@ -19,7 +19,7 @@ const webpackConfigProd = {
   },
 
   output: {
-    filename: 'ljk-change-button.js',
+    filename: 'change-button.js',
     path: resolve('../lib'), 
     libraryTarget:'commonjs2'
   },
