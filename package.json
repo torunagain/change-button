@@ -1,6 +1,6 @@
 {
-  "name": "@lijunkai/change-button",
-  "version": "1.0.0",
+  "name": "@ljk7/buttons",
+  "version": "1.0.2",
   "main": "lib/change-button.js",
   "author": "ljk",
   "license": "MIT",
